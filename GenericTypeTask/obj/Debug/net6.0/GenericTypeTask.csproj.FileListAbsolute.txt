@@ -1,0 +1,14 @@
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\bin\Debug\net6.0\GenericTypeTask.exe
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\bin\Debug\net6.0\GenericTypeTask.deps.json
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\bin\Debug\net6.0\GenericTypeTask.runtimeconfig.json
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\bin\Debug\net6.0\GenericTypeTask.dll
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\bin\Debug\net6.0\GenericTypeTask.pdb
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\obj\Debug\net6.0\GenericTypeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\obj\Debug\net6.0\GenericTypeTask.AssemblyInfoInputs.cache
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\obj\Debug\net6.0\GenericTypeTask.AssemblyInfo.cs
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\obj\Debug\net6.0\GenericTypeTask.csproj.CoreCompileInputs.cache
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\obj\Debug\net6.0\GenericTypeTask.dll
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\obj\Debug\net6.0\refint\GenericTypeTask.dll
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\obj\Debug\net6.0\GenericTypeTask.pdb
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\obj\Debug\net6.0\GenericTypeTask.genruntimeconfig.cache
+C:\Users\Qarib\Desktop\c#\GenericTypeTask\obj\Debug\net6.0\ref\GenericTypeTask.dll
